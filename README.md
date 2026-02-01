@@ -103,7 +103,7 @@ Load the dataset
 
 Train the CNN
 
-Save the trained model as mask_model.keras
+Save the trained model as mask_model.h5
 
 ## 🎥 Run Real-Time Face Mask Detection
 
