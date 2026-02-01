@@ -1,0 +1,6 @@
+TensorFlow 2.15.1
+NumPy 1.26.4 
+Matplotlib 3.10.8 
+Scikit-learn 1.7.2 
+OpenCV 4.13.0
+seaborn
